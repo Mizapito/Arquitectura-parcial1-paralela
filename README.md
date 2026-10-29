@@ -1,0 +1,1 @@
+# Arquitectura-parcial1-paralela
